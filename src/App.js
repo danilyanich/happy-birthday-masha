@@ -9,7 +9,7 @@ const SCREENS = {
 };
 
 function App() {
-  const [screenName, navigate] = useState(Welcome.name);
+  const [screenName, navigate] = useState('Welcome');
   const CurrentScreen = SCREENS[screenName] || React.Fragment;
 
   return <CurrentScreen navigate={navigate} />;
