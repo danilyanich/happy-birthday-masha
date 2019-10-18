@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/happy-birthday-masha/static/css/main.a5bd4462.chunk.css",
-    "main.js": "/happy-birthday-masha/static/js/main.56fd93d9.chunk.js",
-    "main.js.map": "/happy-birthday-masha/static/js/main.56fd93d9.chunk.js.map",
+    "main.js": "/happy-birthday-masha/static/js/main.3a1cde76.chunk.js",
+    "main.js.map": "/happy-birthday-masha/static/js/main.3a1cde76.chunk.js.map",
     "runtime-main.js": "/happy-birthday-masha/static/js/runtime-main.fccbfa31.js",
     "runtime-main.js.map": "/happy-birthday-masha/static/js/runtime-main.fccbfa31.js.map",
     "static/js/2.95375f2f.chunk.js": "/happy-birthday-masha/static/js/2.95375f2f.chunk.js",
     "static/js/2.95375f2f.chunk.js.map": "/happy-birthday-masha/static/js/2.95375f2f.chunk.js.map",
     "index.html": "/happy-birthday-masha/index.html",
-    "precache-manifest.7ce9c8593a72bad6482a01fa8f47620e.js": "/happy-birthday-masha/precache-manifest.7ce9c8593a72bad6482a01fa8f47620e.js",
+    "precache-manifest.8fe48faeef5eec8a85319ac5b8fd84a5.js": "/happy-birthday-masha/precache-manifest.8fe48faeef5eec8a85319ac5b8fd84a5.js",
     "service-worker.js": "/happy-birthday-masha/service-worker.js",
     "static/css/main.a5bd4462.chunk.css.map": "/happy-birthday-masha/static/css/main.a5bd4462.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.fccbfa31.js",
     "static/js/2.95375f2f.chunk.js",
     "static/css/main.a5bd4462.chunk.css",
-    "static/js/main.56fd93d9.chunk.js"
+    "static/js/main.3a1cde76.chunk.js"
   ]
 }
