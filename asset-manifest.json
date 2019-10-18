@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/happy-birthday-masha/static/css/main.9da2611f.chunk.css",
-    "main.js": "/happy-birthday-masha/static/js/main.5a2a9cad.chunk.js",
-    "main.js.map": "/happy-birthday-masha/static/js/main.5a2a9cad.chunk.js.map",
+    "main.css": "/happy-birthday-masha/static/css/main.a5bd4462.chunk.css",
+    "main.js": "/happy-birthday-masha/static/js/main.c6576969.chunk.js",
+    "main.js.map": "/happy-birthday-masha/static/js/main.c6576969.chunk.js.map",
     "runtime-main.js": "/happy-birthday-masha/static/js/runtime-main.fccbfa31.js",
     "runtime-main.js.map": "/happy-birthday-masha/static/js/runtime-main.fccbfa31.js.map",
-    "static/js/2.c8cf829b.chunk.js": "/happy-birthday-masha/static/js/2.c8cf829b.chunk.js",
-    "static/js/2.c8cf829b.chunk.js.map": "/happy-birthday-masha/static/js/2.c8cf829b.chunk.js.map",
+    "static/js/2.95375f2f.chunk.js": "/happy-birthday-masha/static/js/2.95375f2f.chunk.js",
+    "static/js/2.95375f2f.chunk.js.map": "/happy-birthday-masha/static/js/2.95375f2f.chunk.js.map",
     "index.html": "/happy-birthday-masha/index.html",
-    "precache-manifest.2dfc5ec8fa26626c3f7382f86884b6e6.js": "/happy-birthday-masha/precache-manifest.2dfc5ec8fa26626c3f7382f86884b6e6.js",
+    "precache-manifest.f19382259afd7322bea1c35a337b9222.js": "/happy-birthday-masha/precache-manifest.f19382259afd7322bea1c35a337b9222.js",
     "service-worker.js": "/happy-birthday-masha/service-worker.js",
-    "static/css/main.9da2611f.chunk.css.map": "/happy-birthday-masha/static/css/main.9da2611f.chunk.css.map"
+    "static/css/main.a5bd4462.chunk.css.map": "/happy-birthday-masha/static/css/main.a5bd4462.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.fccbfa31.js",
-    "static/js/2.c8cf829b.chunk.js",
-    "static/css/main.9da2611f.chunk.css",
-    "static/js/main.5a2a9cad.chunk.js"
+    "static/js/2.95375f2f.chunk.js",
+    "static/css/main.a5bd4462.chunk.css",
+    "static/js/main.c6576969.chunk.js"
   ]
 }
