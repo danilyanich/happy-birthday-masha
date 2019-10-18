@@ -5,7 +5,7 @@ const Main = styled.main`
   width: 100vw;
   height: 100vh;
 
-  background-image: url("/bg4.png"), linear-gradient(0deg, rgba(73,73,223,1) 0%, rgba(0,212,255,1) 100%);
+  background-image: url("/bg4.png"), linear-gradient(to bottom, #ec008c, #fc6767);;
 
   display: flex;
   justify-content: stretch;
@@ -46,20 +46,16 @@ const Button = styled.button`
   background: transparent;
 `;
 
+function End() {
 
-function Welcome({
-  navigate,
-}) {
   return (
     <Main>
       <Card>
-        Привет, Маша. Я КотоБот 🐈. Поздравляю тебя с днем Рождения! Постарайся отвечать на мои вопросы правильно и возможно ты что-нибудь найдешь.
-        <Button onClick={() => navigate('Game')}>
-          Погнали!
-        </Button>
+        Умничка, Маша! Ты ответила на все вопросы и получаеш пятый ключ! Последние два используй в Универсаме "Центральный" проспект Независимости 23.
+        <Button>Я молодец. Это конец.</Button>
       </Card>
     </Main>
   );
 }
 
-export default Welcome;
+export default End;
