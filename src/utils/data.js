@@ -29,9 +29,8 @@ export const DATA = [{
 }, {
   id: '5',
   question: 'Октябрьская 19к3. Сколько зонтиков у кафэ "Volki Grill"',
-  type: 'buttons',
+  type: 'input',
   answer: '4',
-  buttons: ['Облачно', 'Ясно', 'Понятно'],
   error: 'Волки? Удачи, Волк!'
 }, {
   id: '6',

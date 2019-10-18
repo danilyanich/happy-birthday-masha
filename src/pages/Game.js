@@ -122,7 +122,7 @@ function Game({
     if (activeTask.answer.toLowerCase() === answer.toLowerCase()) {
       const index = DATA.findIndex(task => task.id === activeTask.id);
 
-      if (DATA.length > index) {
+      if (index + 1 < DATA.length) {
         const nextTask = DATA[index + 1];
 
         setCurrentTask(nextTask.id);
