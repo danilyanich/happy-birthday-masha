@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/happy-birthday-masha/precache-manifest.f19382259afd7322bea1c35a337b9222.js"
+  "/happy-birthday-masha/precache-manifest.da38a9e3607109e70d90b2048669a802.js"
 );
 
 self.addEventListener('message', (event) => {
