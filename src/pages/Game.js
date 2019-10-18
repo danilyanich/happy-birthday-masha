@@ -7,7 +7,7 @@ const Main = styled.main`
   width: 100vw;
   height: 100vh;
 
-  background-image: url("/bg4.png"), linear-gradient(to bottom, #8a2387, #e94057, #f27121);
+  background-image: url("bg4.png"), linear-gradient(to bottom, #8a2387, #e94057, #f27121);
 
   display: flex;
   justify-content: stretch;

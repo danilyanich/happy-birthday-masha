@@ -5,7 +5,7 @@ const Main = styled.main`
   width: 100vw;
   height: 100vh;
 
-  background-image: url("/bg4.png"), linear-gradient(0deg, rgba(73,73,223,1) 0%, rgba(0,212,255,1) 100%);
+  background-image: url("bg4.png"), linear-gradient(0deg, rgba(73,73,223,1) 0%, rgba(0,212,255,1) 100%);
 
   display: flex;
   justify-content: stretch;
