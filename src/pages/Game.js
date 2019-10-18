@@ -151,7 +151,10 @@ function Game({
               </Group>
             )}
             {activeTask.type === 'input' && (
-              <TaskInput onAnswer={onAnswer} />
+              <TaskInput
+                key={activeTask.id}
+                onAnswer={onAnswer}
+              />
             )}
           </>
         )}
